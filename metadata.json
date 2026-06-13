@@ -1,0 +1,6 @@
+{
+  "name": "Cottage Builder: Armenian-Spanish Quiz",
+  "description": "An interactive Armenian to Spanish vocabulary learning game where correct answers build a beautiful 3D cottage in nature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
